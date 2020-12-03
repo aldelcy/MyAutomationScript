@@ -1,3 +1,8 @@
+donotsendme.txt
+secret_passwords.txt
+helpers/ignoreme.py
+secrets/*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
