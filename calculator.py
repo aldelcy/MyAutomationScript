@@ -14,3 +14,6 @@ def divide( a, b ):
 def exp( a, b ):
     return a ** b
 
+def percentage(a, b):
+    return a * b
+
